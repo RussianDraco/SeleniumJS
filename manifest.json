@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "name": "SeleniumJS",
+    "version": "1.0",
+    "description": "Generates Python Selenium code based on user interactions on a webpage.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"]
+  }
